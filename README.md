@@ -1,7 +1,5 @@
 # FIND - Mapeamento de Espécies Invasoras
 
-![FIND Logo](/images/logos/Findlogo.png)
-
 ## 📋 Sobre o Projeto
 
 FIND (Flora Invasora Nativa Detectada) é uma plataforma web desenvolvida pela equipe de robótica Gipsy Danger da Escola SESI. O projeto visa mapear e documentar espécies marinhas invasoras no litoral maranhense, com foco inicial na região de São Luís.
